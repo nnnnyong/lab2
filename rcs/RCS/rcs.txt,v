@@ -1,0 +1,42 @@
+head	1.2;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.2
+date	2023.10.21.11.40.48;	author yong;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2023.10.21.11.34.21;	author yong;	state Exp;
+branches;
+next	;
+
+
+desc
+@test
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@rcs test test example
+
+RCS is Rivision Control System.
+rcs editing
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d4 1
+@
